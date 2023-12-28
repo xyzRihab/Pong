@@ -14,7 +14,7 @@ You'll need the following installed:
 
 - Clone this repository to your local machine
 ```cmd
-git clone https://github.com/yourusername/pong.git
+git clone https://github.com/xyzRihab/Pong.git
 ```
 - Navigate to the project directory
 ```cmd
